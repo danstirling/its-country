@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "kQAE3P7oxlL3RF3S3iyAj"
+uri = "file://attached_assets/generated_images/country-band-stage.png"
+type = "image"
+title = "Country Band – Outdoor Venue"
+
+[[outputs]]
+id = "9d5INkuXxPRuhUMLI3M30"
+uri = "file://attached_assets/generated_images/texas-desert.png"
+type = "image"
+title = "West Texas Desert"
